@@ -1,14 +1,18 @@
-📊 Análise de Dados de Crédito com SQL e Amazon Web Service (AWS) 📊
+📊 Análise de Dados de Crédito com SQL e Amazon Web Services (AWS) 📊
+Este projeto tem como objetivo explorar e analisar os limites de crédito de clientes bancários, buscando identificar possíveis correlações entre suas características pessoais e financeiras. A proposta é entender se determinados atributos influenciam diretamente no valor do limite concedido.
 
-Este é projeto simples que visa analisar os limites de créditos de um conjunto de clientes bancários e verificar se há relação entre as suas caracteríricas e se elas impactam em quem possua mais ou menos limite de crédito
+🔍 Objetivo
+• 	Quais variáveis estão mais associadas aos limites de crédito
+• 	Se há padrões entre perfis de clientes com maiores ou menores limites
+• 	Como ferramentas de análise de dados podem auxiliar instituições financeiras na tomada de decisão
 
-🧰 Tecnologias usadas
-SQL
-AWS S3
-AWS Athena
-Google Colab
-
-▶️ Como visualizar o projeto
-Você pode acessar o notebook diretamente pelo Google Colab: https://colab.research.google.com/drive/1ZFFVvpLmgji6ZwzYgrjOPB0SV1p8eHcv?usp=sharing
-
-✍️ Autor: Feito com dedicação por Taíta B. Ramos
+🧰 Tecnologias Utilizadas
+• 	SQL – Para consultas e manipulação dos dados
+• 	Amazon S3 – Armazenamento dos dados em nuvem
+• 	AWS Athena – Execução de queries diretamente sobre os dados no S3
+• 	Google Colab – Ambiente interativo para análise e visualização dos resultados
+▶️ Como Visualizar o Projeto
+Você pode acessar o notebook completo diretamente pelo Google Colab:
+🔗 Abrir notebook no Google Colab
+✍️ Autor
+Projeto desenvolvido com dedicação por Taíta B. Ramos
